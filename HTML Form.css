@@ -1,0 +1,16 @@
+.shoppin {
+    background-color: azure;
+    border: 2px solid black;
+    margin-left: 20em;
+    margin-right:20em;
+}
+.text {
+    box-sizing: border-box;
+    margin-left:  10em;;
+}
+.option {
+    margin-left: 10em;
+}
+fieldset{
+    margin-right: 8em;
+}
